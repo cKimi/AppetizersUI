@@ -21,6 +21,7 @@
 		0F6C48122B2776A00017D513 /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48112B2776A00017D513 /* AppetizerListViewModel.swift */; };
 		0F6C48142B2777DE0017D513 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48132B2777DE0017D513 /* Alert.swift */; };
 		0F6C48162B277C370017D513 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48152B277C370017D513 /* LoadingView.swift */; };
+		0F6C481A2B27848E0017D513 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48192B27848E0017D513 /* RemoteImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		0F6C48112B2776A00017D513 /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
 		0F6C48132B2777DE0017D513 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		0F6C48152B277C370017D513 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		0F6C48192B27848E0017D513 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				0F6C48112B2776A00017D513 /* AppetizerListViewModel.swift */,
 				0F6C48132B2777DE0017D513 /* Alert.swift */,
 				0F6C48152B277C370017D513 /* LoadingView.swift */,
+				0F6C48192B27848E0017D513 /* RemoteImage.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				0F6C48122B2776A00017D513 /* AppetizerListViewModel.swift in Sources */,
 				0F6C48062B274B9D0017D513 /* AccountView.swift in Sources */,
 				0F6C48162B277C370017D513 /* LoadingView.swift in Sources */,
+				0F6C481A2B27848E0017D513 /* RemoteImage.swift in Sources */,
 				0F6C47F82B274AE00017D513 /* AppetizerTabView.swift in Sources */,
 				0F6C480E2B2755C00017D513 /* NetworkManager.swift in Sources */,
 				0F6C47F62B274AE00017D513 /* AppetizersApp.swift in Sources */,
