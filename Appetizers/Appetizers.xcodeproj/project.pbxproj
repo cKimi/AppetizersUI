@@ -22,6 +22,7 @@
 		0F6C48142B2777DE0017D513 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48132B2777DE0017D513 /* Alert.swift */; };
 		0F6C48162B277C370017D513 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48152B277C370017D513 /* LoadingView.swift */; };
 		0F6C481A2B27848E0017D513 /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48192B27848E0017D513 /* RemoteImage.swift */; };
+		0F6C48282B278A970017D513 /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C48272B278A970017D513 /* AppetizerDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		0F6C48132B2777DE0017D513 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		0F6C48152B277C370017D513 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		0F6C48192B27848E0017D513 /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
+		0F6C48272B278A970017D513 /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 			children = (
 				0F6C48112B2776A00017D513 /* AppetizerListViewModel.swift */,
 				0F6C48032B274B930017D513 /* AppetizerListView.swift */,
+				0F6C48272B278A970017D513 /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				0F6C48162B277C370017D513 /* LoadingView.swift in Sources */,
 				0F6C481A2B27848E0017D513 /* RemoteImage.swift in Sources */,
 				0F6C47F82B274AE00017D513 /* AppetizerTabView.swift in Sources */,
+				0F6C48282B278A970017D513 /* AppetizerDetailView.swift in Sources */,
 				0F6C480E2B2755C00017D513 /* NetworkManager.swift in Sources */,
 				0F6C47F62B274AE00017D513 /* AppetizersApp.swift in Sources */,
 				0F6C48142B2777DE0017D513 /* Alert.swift in Sources */,
