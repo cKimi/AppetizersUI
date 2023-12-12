@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F59E3652B28D06F005B7543 /* CustomModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F59E3642B28D06F005B7543 /* CustomModifiers.swift */; };
 		0F6C47F62B274AE00017D513 /* AppetizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C47F52B274AE00017D513 /* AppetizersApp.swift */; };
 		0F6C47F82B274AE00017D513 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F6C47F72B274AE00017D513 /* AppetizerTabView.swift */; };
 		0F6C47FA2B274AE20017D513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F6C47F92B274AE20017D513 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F59E3642B28D06F005B7543 /* CustomModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifiers.swift; sourceTree = "<group>"; };
 		0F6C47F22B274AE00017D513 /* Appetizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F6C47F52B274AE00017D513 /* AppetizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersApp.swift; sourceTree = "<group>"; };
 		0F6C47F72B274AE00017D513 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				0F6C48262B27898C0017D513 /* Image */,
 				0F6C48252B2789800017D513 /* Cells */,
 				0F6C48242B2789710017D513 /* UIKit Components */,
+				0F59E3642B28D06F005B7543 /* CustomModifiers.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 				0FF75F862B28AC2F00F83091 /* Order.swift in Sources */,
 				0F6C48062B274B9D0017D513 /* AccountView.swift in Sources */,
 				0FF75F842B28AA3700F83091 /* EmptyState.swift in Sources */,
+				0F59E3652B28D06F005B7543 /* CustomModifiers.swift in Sources */,
 				0F6C48162B277C370017D513 /* LoadingView.swift in Sources */,
 				0F6C481A2B27848E0017D513 /* RemoteImage.swift in Sources */,
 				0F6C47F82B274AE00017D513 /* AppetizerTabView.swift in Sources */,
